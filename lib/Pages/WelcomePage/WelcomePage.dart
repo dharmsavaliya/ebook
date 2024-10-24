@@ -6,9 +6,9 @@ import 'package:get/get.dart';
 class WelcomePage extends StatelessWidget {
   const WelcomePage({super.key});
 
-  @overridea
+  @override
   Widget build(BuildContext context) {
-    // AuthController authController = Get.put(AuthController());
+    AuthController authController = Get.put(AuthController());
     return Scaffold(
       body: Column(
         children: [

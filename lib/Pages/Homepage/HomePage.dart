@@ -1,6 +1,9 @@
 import 'package:ebook/Components/BookCard.dart';
 import 'package:ebook/Components/BookTile.dart';
+import 'package:ebook/Components/MyDrawer.dart';
+import 'package:ebook/Controller/BookController.dart';
 import 'package:ebook/Models/Data.dart';
+import 'package:ebook/Pages/BookDetails/BookDetails.dart';
 import 'package:ebook/Pages/Homepage/Widgets/AppBar.dart';
 import 'package:ebook/Pages/Homepage/Widgets/CategoryWidget.dart';
 import 'package:ebook/Pages/Homepage/Widgets/MyInputeTextField.dart';
